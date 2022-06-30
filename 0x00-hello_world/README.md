@@ -24,3 +24,4 @@ Example: if the C file is main.c, the output file should be main.s using gcc -S
 
 
 The C file name will be saved in the variable  using gcc  -o cisfun
+Write a C program that prints exactly Programming is like building a multilingual puzzle, followed by a new line.
