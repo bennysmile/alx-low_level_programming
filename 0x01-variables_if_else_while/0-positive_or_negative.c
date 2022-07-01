@@ -18,6 +18,6 @@ int main(void)
 	else if (num == 0)
 		printf("%d is zero\n", num);
 	else
-		printf("%d is negative\n" num);
+		printf("%d is negative\n", num);
 
 	return (0);
