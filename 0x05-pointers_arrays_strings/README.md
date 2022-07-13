@@ -8,3 +8,4 @@
 7. Winning is only half of it. Having fun is the other half
 8. Arrays are not pointers
 9. strcpy
+10. Write a function that convert a string to an integer.
