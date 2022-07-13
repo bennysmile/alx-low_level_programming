@@ -16,7 +16,7 @@ void print_arr(int *a, int n)
 	{
 		printf("%d", a[i]);
 		if (i < n - 1)
-			ptintf(", ");
+			printf(", ");
 	}
 	putchar('\n');
 }
