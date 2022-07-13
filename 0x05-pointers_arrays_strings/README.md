@@ -6,3 +6,4 @@
 5. Write a function that reverses a string.
 6. Half the lies they tell about me aren't true
 7. Winning is only half of it. Having fun is the other half
+8. Arrays are not pointers
