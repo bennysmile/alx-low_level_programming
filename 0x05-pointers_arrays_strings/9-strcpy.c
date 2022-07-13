@@ -2,7 +2,7 @@
 
 /**_strcpy - a function that copies the string pointed by src,
  * including the terminating null byte (\0);
- * to the buffer pointed to by dest.
+ *Description: to the buffer pointed to by dest.
  *
  * @dest: A pointer to destination of string
  * @src: A pointer to source string to copy from
@@ -11,9 +11,20 @@
  */
 char *_strcpy(char *dest, char *src)
 {
-	char *aux = dest;
+	int l = 0;
+	int x = 0;
 
-	while (*src)
-		*dest++ = *src++;
-	return (aux);
+	while (*src + 1) != '\0')
+	{
+		l++;
+	}
+
+	for (; x < 1; x++)
+	{
+		dest[x] = src[x];
+	}
+
+	dest[1] = '\0';
+
+	return (dest);
 }
