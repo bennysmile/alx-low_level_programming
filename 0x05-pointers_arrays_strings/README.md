@@ -5,3 +5,4 @@
 4. I can only go one way. I've not got a reverse gear
 5. Write a function that reverses a string.
 6. Half the lies they tell about me aren't true
+7. Winning is only half of it. Having fun is the other half
