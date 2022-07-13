@@ -9,3 +9,4 @@
 8. Arrays are not pointers
 9. strcpy
 10. Write a function that convert a string to an integer.
+11. Don't hate the hacker, hate the code
