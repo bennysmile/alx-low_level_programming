@@ -8,3 +8,4 @@ Write a function that changes all lowercase letters of a string to uppercase.
 7.Write a function that encodes a string into 1337.
 Write a function that encodes a string using rot13.
 9. Write a function that prints an integer.
+10. A dream doesn't become reality through magic; it takes sweat, determination and hard work
