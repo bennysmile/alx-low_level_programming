@@ -33,9 +33,11 @@ int is_palindrome(char *s)
 	return (helper_palindrome(s, len));
 }
 
-/**helper_palindrome - A function with a revesed string
+/**
+ * helper_palindrome - A function with a revesed string
  * @s: An input string
  * @len: the length of the string s
+ * Description: helper function for palindrome
  * Return: A reverse string
  */
 int helper_palindrome(char *s, int len)
